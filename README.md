@@ -23,7 +23,7 @@ Un **chatbot personnel** en Python avec une interface graphique moderne grâce �
 *(Ajoute ici une capture d’écran ou un GIF de ton app)*  
 
 ```bash
-python main.py
+python Chatbot.py
 ````
 
 Exemple d’interaction :
